@@ -1,6 +1,5 @@
 # adidas-us-sales-analysis
 Exploratory data analysis of the Adidas US Sales dataset. Includes data cleaning, aggregation, and visualizations to uncover regional performance, sales methods, and profitability trends using Python, pandas, and seaborn.
-# Adidas US Sales Analysis
 
 This project explores and analyzes the **Adidas US Sales dataset** to uncover insights into sales performance across regions, products, and sales methods.  
 The notebook includes **data cleaning, transformation, aggregation, and visualization** steps using Python’s data analysis libraries.
